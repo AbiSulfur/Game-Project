@@ -4,7 +4,7 @@
 
 [![Godot Version](https://skillicons.dev/icons?i=godot)](https://godotengine.org)
 
-Sebuah game yang dikembangkan sebagai **Proyek Akhir Semester**. Aplikasi ini adalah sebuah game petualangan aksi 2D yang dirancang untuk menceritakan kisah emosional tentang cinta, kehilangan, dan harapan. Menggunakan sistem permainan berbasis **Eksplorasi, Pertarungan, dan Narasi**, dengan tiga pilar utama yang saling terhubung, yaitu **Gameplay**, **Cerita**, dan **Atmosfer**.
+Sebuah game yang dikembangkan sebagai **Passion Project**. Aplikasi ini adalah sebuah game petualangan aksi 2D yang dirancang untuk menceritakan kisah emosional tentang cinta, kehilangan, dan harapan. Menggunakan sistem permainan berbasis **Eksplorasi, Pertarungan, dan Narasi**, dengan tiga pilar utama yang saling terhubung, yaitu **Gameplay**, **Cerita**, dan **Atmosfer**.
 
 </div>
 
